@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:background="#f9f9f9"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:visibility="invisible"
+        android:id="@+id/exhibit_item_icon"
+        android:layout_width="80dip"
+        android:layout_height="80dip"
+        android:layout_centerVertical="true"
+        android:layout_margin="10dip"
+        android:background="@drawable/ic_launcher" />
+
+    <RelativeLayout
+        android:id="@+id/rel_right"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="10dp"
+        android:layout_toRightOf="@+id/exhibit_item_icon" >
+
+        <TextView
+            android:id="@+id/text_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:lines="2"
+            android:text="轻轻巧巧轻轻巧巧轻轻巧巧轻轻巧巧轻轻巧巧轻轻巧巧轻轻巧巧轻轻巧巧轻轻巧巧轻轻巧巧"
+            android:textColor="@android:color/black"
+            android:textSize="15dp" />
+
+        <RelativeLayout
+            android:id="@+id/rel_right_right"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/text_name"
+            android:layout_marginTop="10dp" >
+
+            <TextView
+                android:id="@+id/text_count"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingTop="5dp"
+                android:scaleType="centerInside"
+                android:text="×100" />
+
+            <TextView
+                android:id="@+id/text_price"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:paddingTop="5dp"
+                android:text="￥12201"
+                android:textSize="13dp" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

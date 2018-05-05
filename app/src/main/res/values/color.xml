@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="text_unpressed">@android:color/black</color>
+    <color name="text_pressed">#35BBB0</color>
+    <color name="view_unpressed">#ffffff</color>
+    <color name="view_pressed">#C9EBE8</color>
+    <color name="textcolor_blue">#28B6A6</color>
+    <color name="textcolor_lightgray">#C3C3C3</color>
+    <color name="jiangexian">#BABABA</color>
+    <color name="textcolor_lightgray2">#666666</color>
+    <color name="mianbgcolor">#EEEEEE</color>
+    <color name="gold">#b89766</color>
+    <color name="white">#ffffff</color>
+    <color name="grey21">#363636</color>
+    <color name="white_gray">#E8F2FE</color>
+    <color name="gray">#DBDBDB</color>
+
+</resources>

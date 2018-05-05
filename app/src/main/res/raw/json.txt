@@ -1,0 +1,194 @@
+﻿{
+flag: true,
+message: "10000123",
+result: [
+{
+createtime: "2015-08-27 10:00:00",
+ddaddress: "东北旺南路28号",
+ddarea: "东城区",
+ddcity: "北京市",
+ddhouseId: 133,
+ddhouseName: "北京主库房",
+ddoperator: "陈文东",
+ddoperatorphone: "13810095764",
+ddprovince: "",
+faddress: "北京市东城区东北旺南路28号",
+id: 10000129,
+orderDetailVoList: [
+{
+faddress: "北京市东城区东北旺南路28号",
+goodsname: "罗技（Logitech）MK220 无线光电键鼠套装",
+goodspicurl: "http://static.dingdong.com.cn/img/4e78376b-c465-4e91-98dd-afb57a71af13.jpg",
+goodssum: 30,
+id: 201508261807445660,
+price: 90,
+totalmoney: 0.01
+},
+{
+faddress: "北京市东城区东北旺南路28号",
+goodsname: "罗技（Logitech）MK220 无线光电键鼠套装",
+goodspicurl: "http://static.dingdong.com.cn/img/4e78376b-c465-4e91-98dd-afb57a71af13.jpg",
+goodssum: 30,
+id: 201508261227116540,
+price: 90,
+totalmoney: 2700
+},
+{
+faddress: "北京市东城区东北旺南路28号",
+goodsname: "罗技（Logitech）MK120 键鼠套装",
+goodspicurl: "http://static.dingdong.com.cn/img/40fda34a-aa06-430f-bcb8-e2f24854bd7f.jpg",
+goodssum: 50,
+id: 201508261747296800,
+price: 69,
+totalmoney: 0.01
+},
+{
+faddress: "北京市东城区东北旺南路28号",
+goodsname: "TP-LINK TL-WR886N 450M无线路由器",
+goodspicurl: "http://static.dingdong.com.cn/img/6ec91287-fdc6-48e2-9730-8f432414640b.jpg",
+goodssum: 50,
+id: 201508261747293800,
+price: 89,
+totalmoney: 0.01
+},
+{
+faddress: "北京市东城区东北旺南路28号",
+goodsname: "罗技（Logitech） B175 商用无线鼠标",
+goodspicurl: "http://static.dingdong.com.cn/img/201a96a1-dac7-4100-bdc3-5d2a64e14138.jpg",
+goodssum: 50,
+id: 201508261805522020,
+price: 59,
+totalmoney: 0.01
+},
+{
+faddress: "北京市东城区东北旺南路28号",
+goodsname: "TP-LINK TL-WR886N 450M无线路由器",
+goodspicurl: "http://static.dingdong.com.cn/img/6ec91287-fdc6-48e2-9730-8f432414640b.jpg",
+goodssum: 50,
+id: 201508261227115650,
+price: 89,
+totalmoney: 4450
+}
+],
+purchasemoney: 13380.04,
+type: 2
+},
+{
+createtime: "2015-08-27 10:00:00",
+ddaddress: "东北旺南路28号",
+ddarea: "东城区",
+ddcity: "北京市",
+ddhouseId: 133,
+ddhouseName: "北京主库房",
+ddoperator: "陈文东",
+ddoperatorphone: "13810095764",
+ddprovince: "",
+faddress: "北京市东城区东北旺南路28号",
+id: 10000128,
+orderDetailVoList: [
+{
+faddress: "北京市东城区东北旺南路28号",
+goodsname: "腾达（Tenda）N318无线路由器穿墙王300MN318无线路由器穿墙王300MN318无线路由器穿墙王300M",
+goodspicurl: "http://static.dingdong.com.cn/img/44f384cb-a934-482a-8524-24aa6d34c0e7.jpg",
+goodssum: 50,
+id: 201508261227115870,
+price: 44,
+totalmoney: 2200
+}
+],
+purchasemoney: 2200,
+type: 2
+},
+{
+createtime: "2015-08-27 10:00:00",
+ddaddress: "东北旺南路28号",
+ddarea: "东城区",
+ddcity: "北京市",
+ddhouseId: 133,
+ddhouseName: "北京主库房",
+ddoperator: "陈文东",
+ddoperatorphone: "13810095764",
+ddprovince: "",
+faddress: "北京市东城区东北旺南路28号",
+id: 10000123,
+orderDetailVoList: [
+{
+faddress: "北京市东城区东北旺南路28号",
+goodsname: "罗技（Logitech）MK220 无线光电键鼠套装",
+goodspicurl: "http://static.dingdong.com.cn/img/4e78376b-c465-4e91-98dd-afb57a71af13.jpg",
+goodssum: 30,
+id: 201508261807445660,
+price: 90,
+totalmoney: 0.01
+},
+{
+faddress: "北京市东城区东北旺南路28号",
+goodsname: "TP-LINK TL-WDR5600 900M无线路由器",
+goodspicurl: "http://static.dingdong.com.cn/img/948fc3f3-bcb0-4743-8727-06249fa497e4.jpg",
+goodssum: 20,
+id: 201508261548064700,
+price: 139,
+totalmoney: 2780
+},
+{
+faddress: "北京市东城区东北旺南路28号",
+goodsname: "罗技（Logitech）MK120 键鼠套装",
+goodspicurl: "http://static.dingdong.com.cn/img/40fda34a-aa06-430f-bcb8-e2f24854bd7f.jpg",
+goodssum: 50,
+id: 201508261420353150,
+price: 69,
+totalmoney: 3450
+},
+{
+faddress: "北京市东城区东北旺南路28号",
+goodsname: "罗技（Logitech）MK220 无线光电键鼠套装",
+goodspicurl: "http://static.dingdong.com.cn/img/4e78376b-c465-4e91-98dd-afb57a71af13.jpg",
+goodssum: 30,
+id: 201508261227116540,
+price: 90,
+totalmoney: 2700
+},
+{
+faddress: "北京市东城区东北旺南路28号",
+goodsname: "罗技（Logitech）MK120 键鼠套装",
+goodspicurl: "http://static.dingdong.com.cn/img/40fda34a-aa06-430f-bcb8-e2f24854bd7f.jpg",
+goodssum: 50,
+id: 201508261747296800,
+price: 69,
+totalmoney: 0.01
+},
+{
+faddress: "北京市东城区东北旺南路28号",
+goodsname: "TP-LINK TL-WR886N 450M无线路由器",
+goodspicurl: "http://static.dingdong.com.cn/img/6ec91287-fdc6-48e2-9730-8f432414640b.jpg",
+goodssum: 50,
+id: 201508261747293800,
+price: 89,
+totalmoney: 0.01
+},
+{
+faddress: "北京市东城区东北旺南路28号",
+goodsname: "罗技（Logitech） B175 商用无线鼠标",
+goodspicurl: "http://static.dingdong.com.cn/img/201a96a1-dac7-4100-bdc3-5d2a64e14138.jpg",
+goodssum: 50,
+id: 201508261805522020,
+price: 59,
+totalmoney: 0.01
+},
+{
+faddress: "北京市东城区东北旺南路28号",
+goodsname: "TP-LINK TL-WR886N 450M无线路由器",
+goodspicurl: "http://static.dingdong.com.cn/img/6ec91287-fdc6-48e2-9730-8f432414640b.jpg",
+goodssum: 50,
+id: 201508261227115650,
+price: 89,
+totalmoney: 4450
+}
+],
+purchasemoney: 13380.04,
+type: 2
+}
+],
+state: true,
+status: 1
+}
